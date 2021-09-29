@@ -9,8 +9,8 @@ Each invoice has a reference number and all the data are stored in a document da
 ## Screenshots
 
 ![Screenshot](landing.png)
-![Screenshot](adding_product.png)
-![Screenshot](adding_client.png)
+![Screenshot](adding_products.png)
+![Screenshot](adding_clients.png)
 ![Screenshot](transaction_scene.png)
 ![Screenshot](generating_invoice.png)
 ![Screenshot](invoice.png)
