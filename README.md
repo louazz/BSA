@@ -9,13 +9,13 @@ Each invoice has a reference number and all the data are stored in a document da
 ## Screenshots
 
 ![Screenshot](landing.png)
-![Screenshot](adding product.png)
-![Screenshot](adding client.png)
-![Screenshot](transaction scene.png)
-![Screenshot](generating invoice.png)
+![Screenshot](adding_product.png)
+![Screenshot](adding_client.png)
+![Screenshot](transaction_scene.png)
+![Screenshot](generating_invoice.png)
 ![Screenshot](invoice.png)
 
-  
+
 ## Installation
 
 Clone the repository and follow those steps:
@@ -25,15 +25,13 @@ Clone the repository and follow those steps:
  npm run build
  npm start
 ```
-    
+
 ## Deployment
 
 Use electron-packager dependency to package the application.
 Link: https://github.com/electron/electron-packager
 
-  
+
 ## Authors
 
 - [@louazz](https://www.github.com/louazz)
-
-  
