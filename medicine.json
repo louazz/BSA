@@ -1,0 +1,484 @@
+{
+  "medicine": [
+    {
+      "name": "EURICAN CHPPI2L Lyoph.+S Susp. Inj. Fl 1Dose ",
+      "code": "220123",
+      "price": "10.181",
+      "id": 1626455541710
+    },
+    {
+      "name": "EURICAN L Sol. Inj. Fl 1 Dose ",
+      "code": "220104",
+      "price": "4.241",
+      "id": 1626455541712
+    },
+    {
+      "name": "PRIMODOG  Susp. Inj. Fl 1 Dose ",
+      "code": "220102",
+      "price": "11.543",
+      "id": 1626455541717
+    },
+    {
+      "name": "PUREVAX RCP Lyoph.P.Susp.Inj. Fl 1Dose ",
+      "code": "220144",
+      "price": "21.046",
+      "id": 1626455541721
+    },
+    {
+      "name": "RABISIN MULTI Susp. Inj. Fl 10 Doses ",
+      "code": "220036",
+      "price": "7.642",
+      "id": 1626455541724
+    },
+    {
+      "name": "RABISIN Susp. Inj. Fl 1ml/1 Dose",
+      "code": "220052",
+      "price": "2.183",
+      "id": 1626455541730
+    },
+    {
+      "name": "PROTEQ FLU-TE Pdre.+S Susp. Inj. Fl 1 Dose ",
+      "code": "221093",
+      "price": "20.600",
+      "id": 1626455541732
+    },
+    {
+      "name": "PNEUMEQUINE Emuls. Inj. Fl 1 Dose ",
+      "code": "220103",
+      "price": "43.055",
+      "id": 1626455541733
+    },
+    {
+      "name": "TRIVACTON 6 Susp. Inj. Fl 50ml/10 Doses",
+      "code": "220028",
+      "price": "101.340",
+      "id": 1626455541734
+    },
+    {
+      "name": "AFTOVAXPUR (O-A-SAT 2) Susp. Inj. Fl 300ml/100 Doses ",
+      "code": "220019",
+      "price": "376.573",
+      "id": 1626455541735
+    },
+    {
+      "name": "AFTOVAXPUR (O-SAT 2) Susp. Inj. Fl 100ml/ 200 Doses",
+      "code": "220020",
+      "price": "213.504",
+      "id": 1626455541736
+    },
+    {
+      "name": "AVINEW Lyoph.Susp.Nas.Oc.Or. Fl/2000 Doses",
+      "code": "221137",
+      "price": "9.129",
+      "id": 1626455541737
+    },
+    {
+      "name": "VAXXITEK HVT+IBD Susp.Congelee+Diluant Susp.Inj. Amp 1000 Doses+ Poche 200ml Solv  ",
+      "code": "220110",
+      "price": "75.144",
+      "id": 1626455541738
+    },
+    {
+      "name": "CRYOMAREX RISPENS Pdre.P.Prép.Inj. Amp 1000Doses+Solv./200ml ",
+      "code": "221099",
+      "price": "43.558",
+      "id": 1626455541739
+    },
+    {
+      "name": "DIFTOSEC Lyoph.+Emul.Inj. Fl 1000Doses ",
+      "code": "220143",
+      "price": "14.646",
+      "id": 1626455541740
+    },
+    {
+      "name": "AVIFFA-RTI Lyoph.Susp.Nas.Occ.Or Fl 1000 Doses ",
+      "code": "220146",
+      "price": "5.944",
+      "id": 1626455541741
+    },
+    {
+      "name": "BIORAL H 120 Lyoph.P.Susp.Nas.Occ. Et Or. Fl/2000 Doses ",
+      "code": "221135",
+      "price": "4.924",
+      "id": 1626455541742
+    },
+    {
+      "name": "DINDORAL  Lyoph. Susp. Or. Fl 1000 Doses ",
+      "code": "220015",
+      "price": "52.643",
+      "id": 1626455541744
+    },
+    {
+      "name": "GALLIMUNE 208 ND FLU H9M.E Emul.Inj. Fl 1000 Doses",
+      "code": "221119",
+      "price": "83.669",
+      "id": 1626455541745
+    },
+    {
+      "name": "GALLIMUNE 407 ND+IB+EDS+ART Emuls.Inj. Fl 1000Doses(F)",
+      "code": "220148",
+      "price": "148.634",
+      "id": 1626455541746
+    },
+    {
+      "name": "GALLIVAC IB 88 Lyophilisat  Fl 1000 Doses",
+      "code": "221113",
+      "price": "23.350",
+      "id": 1626455541747
+    },
+    {
+      "name": "GALLIVAC IBD H 2512 Lyoph. P. Susp. Or - Fl 2000 Doses ",
+      "code": "221130",
+      "price": "5.944",
+      "id": 1626455541748
+    },
+    {
+      "name": "GUMBOPEST Emulsion Inj. Fl/1000 Doses ",
+      "code": "221110",
+      "price": "44.578",
+      "id": 1626455541749
+    },
+    {
+      "name": "GUMBORIFFA Sol. Inj. Fl 1000 Doses ",
+      "code": "220018",
+      "price": "55.192",
+      "id": 1626455541751
+    },
+    {
+      "name": "IMOPEST Emulsion Inj. Fl/1000 Doses ",
+      "code": "221165",
+      "price": "23.350",
+      "id": 1626455541762
+    },
+    {
+      "name": "MYELOVAX Sol.Or. Fl 1000 Doses ",
+      "code": "221129",
+      "price": "24.583",
+      "id": 1626455541767
+    },
+    {
+      "name": "AMPIDEXALONE Sol Inj Fl 100ml",
+      "code": "201320",
+      "price": "\"19",
+      "id": 1626456953499
+    },
+    {
+      "name": "AMPISOL 10% Pdre Or Sach.100gr ",
+      "code": "200031",
+      "price": "8656",
+      "id": 1626456953504
+    },
+    {
+      "name": "COFAMOX 20 Sachet 100 gPdre Or Sach.100gr",
+      "code": "201385",
+      "price": "11154",
+      "id": 1626456953509
+    },
+    {
+      "name": "COFAMOX 20  BT 1 kgPdre Or Bt 1kg",
+      "code": "201142",
+      "price": "\"99",
+      "id": 1626456953512
+    },
+    {
+      "name": "COFAMOX 15 LASol Inj Fl 100ml",
+      "code": "201404",
+      "price": "25179",
+      "id": 1626456953516
+    },
+    {
+      "name": "COFAVIT 500Sol Inj Fl 100ml",
+      "code": "201106",
+      "price": "24186",
+      "id": 1626456953518
+    },
+    {
+      "name": "DEXALONE SOLUTION 20% Sol Inj Fl 100ml",
+      "code": "200032",
+      "price": "11034",
+      "id": 1626456953521
+    },
+    {
+      "name": "PENI DHS COOPHAVET Susp Inj Fl 100ml",
+      "code": "201386",
+      "price": "15042",
+      "id": 1626456953523
+    },
+    {
+      "name": "REMACYCLINE Sol Inj Fl 100ml",
+      "code": "201321",
+      "price": "15736",
+      "id": 1626456953524
+    },
+    {
+      "name": "TRISULMIX Sol Inj Fl 100ml",
+      "code": "201327",
+      "price": "\"11",
+      "id": 1626456953526
+    },
+    {
+      "name": "VIRGOCILLINE  250 MLSol Inj Fl 250ml",
+      "code": "201143",
+      "price": "28528",
+      "id": 1626456953529
+    },
+    {
+      "name": "VIRGOCILLINE 100 MLSol Inj Fl 100ml",
+      "code": "201113",
+      "price": "13341",
+      "id": 1626456953530
+    },
+    {
+      "name": "Suanovil 50 Pdre Or Bt 100gr",
+      "code": "200525",
+      "price": "47546",
+      "id": 1626456953532
+    },
+    {
+      "name": "ALUSPRAYFl 220 ml",
+      "code": "200528",
+      "price": "12.787",
+      "id": 1626457700692
+    },
+    {
+      "name": "AURIZONFl 10 ml",
+      "code": "201118",
+      "price": "14.771",
+      "id": 1626457700694
+    },
+    {
+      "name": "CALMAGINEsol. Inj. Fl 100 ml",
+      "code": "201074",
+      "price": "14.310",
+      "id": 1626457700696
+    },
+    {
+      "name": "CALMIVET ComprimésBoite .40 cp",
+      "code": "200515",
+      "price": "8.170",
+      "id": 1626457700697
+    },
+    {
+      "name": "CEFTIOCYLSusp.Inj .FL 100 ml",
+      "code": "201146",
+      "price": "73.861",
+      "id": 1626457700699
+    },
+    {
+      "name": "DIURIZONEsol. Inj. Fl 50 ml",
+      "code": "201138",
+      "price": "11.910",
+      "id": 1626457700701
+    },
+    {
+      "name": "DOLETHALsol. Inj. Fl 250 ml",
+      "code": "201365",
+      "price": "102.666",
+      "id": 1626457700703
+    },
+    {
+      "name": "DOLPAC 10Boite.60 cp",
+      "code": "201396",
+      "price": "216.042",
+      "id": 1626457700706
+    },
+    {
+      "name": "DOLPAC  25Boit.3 cp",
+      "code": "201394",
+      "price": "28.898",
+      "id": 1626457700711
+    },
+    {
+      "name": "FORCYLsol. Inj. Fl 100 ml",
+      "code": "201151",
+      "price": "143.104",
+      "id": 1626457700716
+    },
+    {
+      "name": "MARBOCYL 2%sol. Inj. Fl 100 ml",
+      "code": "200113",
+      "price": "32.545",
+      "id": 1626457700723
+    },
+    {
+      "name": "MARBOCYL 10%   sol. Inj. Fl 50 ml",
+      "code": "200126",
+      "price": "76.862",
+      "id": 1626457700729
+    },
+    {
+      "name": "MARBOCYL  P 20 mgBoite.10 cp",
+      "code": "201363",
+      "price": "23.543",
+      "id": 1626457700731
+    },
+    {
+      "name": "ORIDERMYLTube de 10 g",
+      "code": "200008",
+      "price": "9.925",
+      "id": 1626457700734
+    },
+    {
+      "name": "PHENYLARTHRITE Injectable sol. Inj. Fl 100 ml",
+      "code": "201406",
+      "price": "12.233",
+      "id": 1626457700740
+    },
+    {
+      "name": "PHOSPHONORTONIC 20%sol. Inj. Fl 100 ml",
+      "code": "200298",
+      "price": "25.021",
+      "id": 1626457700741
+    },
+    {
+      "name": "PRIFINIAL SOLUTIONsol. Inj. Fl 50 ml",
+      "code": "201063",
+      "price": "15.188",
+      "id": 1626457700743
+    },
+    {
+      "name": "PRIFINIAL 7 mgBoite.20 cp",
+      "code": "201062",
+      "price": "9.509",
+      "id": 1626457700750
+    },
+    {
+      "name": "THERACALCIUMsol. Inj. Fl 100 ml",
+      "code": "201136",
+      "price": "15.051",
+      "id": 1626457700758
+    },
+    {
+      "name": "TOLFINE 50 mlsol. Inj. Fl 50 ml",
+      "code": "201148",
+      "price": "25.389",
+      "id": 1626457700760
+    },
+    {
+      "name": "TOLFINE 100 mlsol. Inj. Fl 100 ml",
+      "code": "201400",
+      "price": "46.163",
+      "id": 1626457700762
+    },
+    {
+      "name": "TOLFEDINE 20 mg Boite.8 cp",
+      "code": "201299",
+      "price": "5.632",
+      "id": 1626457700765
+    },
+    {
+      "name": "VITA-C VETOQUINOL sol. Inj. Fl 50 ml",
+      "code": "200470",
+      "price": "9.785",
+      "id": 1626457700769
+    },
+    {
+      "name": "Biodyl Sol.Inj. Fl 50ml",
+      "code": "200950",
+      "price": "17.033",
+      "id": 1626457889269
+    },
+    {
+      "name": "Eqvalan Duo Pate Or. Bt 1Ser./ 7.74gr",
+      "code": "201162",
+      "price": "40.392",
+      "id": 1626457889271
+    },
+    {
+      "name": "Eqvalan Pate Pate Or. Bt 1Ser./6.42gr",
+      "code": "201161",
+      "price": "38.177",
+      "id": 1626457889273
+    },
+    {
+      "name": "Frontline Combo Spot On Chat Sol.Ext. Bt 1Pipette\\0.5ml",
+      "code": "201399",
+      "price": "10.866",
+      "id": 1626457889275
+    },
+    {
+      "name": "Frontline Combo Spot On Chien S Sol. Ext. Bt 1Pipette\\0.67ml",
+      "code": "201398",
+      "price": "14.096",
+      "id": 1626457889280
+    },
+    {
+      "name": "Frontline Combo Spot-On Chien M Sol.P.Spot-on Pipette /1.34ml",
+      "code": "201409",
+      "price": "15.171",
+      "id": 1626457889285
+    },
+    {
+      "name": "Frontline Combo Spot-On Chien LSol.P.Spot-on Pipette/2.68ml",
+      "code": "201403",
+      "price": "16.505",
+      "id": 1626457889290
+    },
+    {
+      "name": "Frontline Combo Spot-On Chien XLSol.P.Spot-on Pipette/4.02ml",
+      "code": "201126",
+      "price": "19.016",
+      "id": 1626457889292
+    },
+    {
+      "name": "Frontline Spray Fl 100 MlSol.P.Pulv. Cutanée  ",
+      "code": "200042",
+      "price": "21.322",
+      "id": 1626457889294
+    },
+    {
+      "name": "Frontline Spray Fl 250 MlSol.P.Pulv.Cutanée ",
+      "code": "200043",
+      "price": "41.979",
+      "id": 1626457889296
+    },
+    {
+      "name": "Imalgène 1000 Sol.Inj. Fl 10ml ",
+      "code": "200054",
+      "price": "60.426",
+      "id": 1626457889301
+    },
+    {
+      "name": "Nexgard 11Mg  Chiens 2-4 KgBoite 3 Comp",
+      "code": "201170",
+      "price": "49.487",
+      "id": 1626457889306
+    },
+    {
+      "name": "Nexgard 28Mg  Chiens 4-10 Kg Boite 3 Comp",
+      "code": "201171",
+      "price": "56.088",
+      "id": 1626457889313
+    },
+    {
+      "name": "Nexgard 68Mg  Chiens 10-25 Kg Boite 3 Comp",
+      "code": "201172",
+      "price": "64.304",
+      "id": 1626457889315
+    },
+    {
+      "name": "Nexgard 136 Mg  Chiens 25-50 Kg Boite 3 Comp",
+      "code": "201173",
+      "price": "72.568",
+      "id": 1626457889317
+    },
+    {
+      "name": "ZactranSol.Inj. Fl 50ml ",
+      "code": "201185",
+      "price": "162.701",
+      "id": 1626457889319
+    },
+    {
+      "name": "CymelarsanSol. Inj.  FL 20 ml",
+      "code": "850951",
+      "price": "31.111",
+      "id": 1626457889321
+    },
+    {
+      "name": "CGC",
+      "code": "123",
+      "price": "10",
+      "id": 1626461602770
+    }
+  ]
+}
